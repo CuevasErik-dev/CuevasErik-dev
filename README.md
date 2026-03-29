@@ -24,7 +24,7 @@ Me apasiona construir soluciones robustas, desde la arquitectura del backend has
 
 ### 📂 Proyectos Destacados
 
-- **[Sistema de Gestión de Alumnos](https://github.com/CuevasErik-dev/Alumnos):** Aplicación Full Stack (Spring Boot + Vue.js) para administración escolar.
+- **[Sistema de Gestión de Alumnos](https://github.com/CuevasErik-dev/Alumnos):** Aplicación Full Stack (Spring Boot + React native) para administración escolar.
 - **[News App Backend](https://github.com/CuevasErik-dev/Backend-appNoticias):** API robusta para servicios de noticias integrada con React Expo.
 - **[MusicWave](https://github.com/CuevasErik-dev/MusicWave):** Exploración de interfaces y manejo de estados en JavaScript.
 
