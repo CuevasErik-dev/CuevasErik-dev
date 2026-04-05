@@ -1,6 +1,6 @@
 # ¡Hola! Soy Erik Israel Cuevas Hernández 👋
 
-### 🚀 Estudiante de Ingeniería en Sistemas Computacionales | Full Stack Developer
+### 🚀 Estudiante de Ingeniería en Sistemas Computacionales
 Me apasiona construir soluciones robustas, desde la arquitectura del backend hasta la experiencia de usuario en dispositivos móviles. Actualmente enfocado en el desarrollo ágil. 
 
 ---
